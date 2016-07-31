@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\adt-bundle-windows-x86-20130917\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\AndroidStudioProjects\StepCounter-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-5192874f2d7bba8e5bd1347ef3911d45833c8799.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\StepCounter-master\app\libs\GifView.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5a518235931001b94e87540c99bd13258f614622">
+        <dex dex="G:\AndroidStudioProjects\StepCounter-master\app\build\intermediates\pre-dexed\debug\GifView-2dc924cdbfb32b808f0ce879ebd1a6d1fd428dc8.jar" />
+    </item>
+
+</items>
