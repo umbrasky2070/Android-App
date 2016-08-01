@@ -1,0 +1,37 @@
+ADFHOST3508="http://csdnim.qtmojo.com";
+ADFCID3508=212;
+ADFBID3508=3508;
+ADFLOC='CNGDSZ00';
+ADFUSER3508="http://csdnim.qtmojo.com/c?d=csdnim&i=z212,10515102,3508,17850&rf=&a=dtDI9tXHe35dK0BTeux0fUraa1Jt&u=";
+ALLYESID4="08E5DFC88C310FF6";
+ADFPGC="2,8,212,0,4634,3508,17850,10515102";
+
+document.write("<script type='text/javascript'>\n");
+document.write("  var googletag = googletag || {};\n");
+document.write("  googletag.cmd = googletag.cmd || [];\n");
+document.write("  (function() {\n");
+document.write("    var gads = document.createElement('script');\n");
+document.write("    gads.async = true;\n");
+document.write("    gads.type = 'text/javascript';\n");
+document.write("    var useSSL = 'https:' == document.location.protocol;\n");
+document.write("    gads.src = (useSSL ? 'https:' : 'http:') +\n");
+document.write("      '//www.googletagservices.com/tag/js/gpt.js';\n");
+document.write("    var node = document.getElementsByTagName('script')[0];\n");
+document.write("    node.parentNode.insertBefore(gads, node);\n");
+document.write("  })();\n");
+document.write("</Scr"+"ipt>\n");
+document.write("\n");
+document.write("<div id='div-gpt-ad-1447127411773-0' style='height:90px; width:960px;'>\n");
+document.write("<script type='text/javascript'>\n");
+document.write("  googletag.cmd.push(function() {\n");
+document.write("    googletag.defineSlot('/8456/IDG.CN_B2B_csdn.net', [960, 90], 'div-gpt-ad-1447127411773-0').addService(googletag.pubads()).setTargeting(\"category\",\"forums\");\n");
+document.write("    googletag.pubads().enableSingleRequest();\n");
+document.write("if (self != top) {\n");
+document.write("         googletag.pubads().set(\"page_url\", document.referrer);\n");
+document.write("         }\n");
+document.write("    googletag.enableServices();\n");
+document.write("    googletag.display('div-gpt-ad-1447127411773-0');\n");
+document.write("  });\n");
+document.write("</Scr"+"ipt>\n");
+document.write("</div>");
+

@@ -1,0 +1,14 @@
+ADFHOST126="http://csdnim.qtmojo.com";
+ADFCID126=135;
+ADFBID126=126;
+ADFLOC='CNGDSZ00';
+ADFUSER126="http://csdnim.qtmojo.com/c?d=csdnim&i=z135,10515550,126,279&rf=&a=d7Dq9fXHe2Uk70BTeux0jAkaVhZ8&u=";
+ALLYESID4="08E5DFC88C310FF6";
+ADFPGC="2,8,135,0,134,126,279,10515550";
+
+document.write("<script type=\"text/javascript\">\n");
+document.write("/*论坛频道首页右侧button300*60，创建于2014-7-3*/\n");
+document.write("var cpro_id = \"u1608597\";\n");
+document.write("</Scr"+"ipt>\n");
+document.write("<script src=\"http://cpro.baidustatic.com/cpro/ui/c.js\" type=\"text/javascript\"></Scr"+"ipt>");
+

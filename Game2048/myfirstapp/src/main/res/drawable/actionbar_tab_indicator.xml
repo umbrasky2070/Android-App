@@ -1,0 +1,42 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--按钮没有按下的状态-->
+    <!--没有焦点的状态-->
+    <item android:state_focused="false"
+        android:state_selected="false"
+        android:state_pressed="false"
+        android:drawable="@drawable/tab_unselected"/>
+    <item android:state_focused="false"
+        android:state_selected="true"
+        android:state_pressed="false"
+        android:drawable="@drawable/tab_selected"/>
+    <!--有焦点的状态-->
+    <item android:state_focused="true"
+        android:state_selected="false"
+        android:state_pressed="false"
+        android:drawable="@drawable/tab_unselected"/>
+    <item android:state_focused="true"
+        android:state_selected="true"
+        android:state_pressed="false"
+        android:drawable="@drawable/tab_selected"/>
+
+    <!--按钮按下的状态-->
+    <!--没有焦点的状态-->
+    <item android:state_focused="false"
+        android:state_selected="false"
+        android:state_pressed="true"
+        android:drawable="@drawable/tab_unselected"/>
+    <item android:state_focused="false"
+        android:state_selected="true"
+        android:state_pressed="true"
+        android:drawable="@drawable/tab_selected"/>
+    <!--有焦点的状态-->
+    <item android:state_focused="true"
+        android:state_selected="false"
+        android:state_pressed="true"
+        android:drawable="@drawable/tab_unselected"/>
+    <item android:state_focused="true"
+        android:state_selected="true"
+        android:state_pressed="true"
+        android:drawable="@drawable/tab_selected"/>
+
+</selector>
